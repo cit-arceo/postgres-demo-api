@@ -1,0 +1,9 @@
+/home/citlalli/Escritorio/ng5-api/src/main/java/com/example/ng5api/model/Answer.java
+/home/citlalli/Escritorio/ng5-api/src/main/java/com/example/ng5api/repository/QuestionRepository.java
+/home/citlalli/Escritorio/ng5-api/src/main/java/com/example/ng5api/controller/QuestionController.java
+/home/citlalli/Escritorio/ng5-api/src/main/java/com/example/ng5api/model/Question.java
+/home/citlalli/Escritorio/ng5-api/src/main/java/com/example/ng5api/Ng5ApiApplication.java
+/home/citlalli/Escritorio/ng5-api/src/main/java/com/example/ng5api/model/AuditModel.java
+/home/citlalli/Escritorio/ng5-api/src/main/java/com/example/ng5api/controller/AnswerController.java
+/home/citlalli/Escritorio/ng5-api/src/main/java/com/example/ng5api/repository/AnswerRepository.java
+/home/citlalli/Escritorio/ng5-api/src/main/java/com/example/ng5api/exception/ResourceNotFoundException.java
